@@ -11,5 +11,11 @@
 9) You will get the outputs like below:
 
    ![Screenshot (185)](https://github.com/saiTA21/aws-assignments/assets/152283229/7bce10f1-4fb0-4e43-bcd9-39a8c5e2637e)
+
+   
    ![Screenshot (186)](https://github.com/saiTA21/aws-assignments/assets/152283229/e5f5e902-3177-49ee-ac1c-59bc22c6714d)
+11) Project	aws-training
+    Name	   Assignment_sai
+    Owner	sai.aditya@tigeranalytics.com
+
 
